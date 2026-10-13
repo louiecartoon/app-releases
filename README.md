@@ -6,9 +6,9 @@ Official downloads and automatic-update files for my Windows apps.
 Follow me on TikTok: @LouieCartoon
 
 ## Apps
-- 606 Radio Scanner
 - 956 NewsWire
 - 956 Radio Scanner
+- 606 Radio Scanner
 - AutoLocalLLM
 
 Go to **Releases** (right-hand side of this page) to download the newest installer.
