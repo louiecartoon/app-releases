@@ -1,25 +1,8 @@
 {
  "schema": 1,
- "seq": 4,
- "updated": "2026-10-13T08:07:05Z",
+ "seq": 6,
+ "updated": "2026-10-13T08:17:03Z",
  "apps": {
-  "606-radio-scanner": {
-   "version": "1.1.0",
-   "released": "2026-10-13",
-   "notes": "Adds Check for updates and key cancellation support.",
-   "setup": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/606-radio-scanner-v1.1.0/606RadioScannerSetup.exe",
-    "sha256": "9e69430ff38800171d38bbddd9ddd342f760594d78e0d20b5b19053fd06313cd",
-    "size": 18015232,
-    "name": "606RadioScannerSetup.exe"
-   },
-   "portable": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/606-radio-scanner-v1.1.0/606RadioScannerPortable.exe",
-    "sha256": "c7af54c068783ac80b73895d9fb879543480690479fc283d8ec9879ef688fcdd",
-    "size": 13765632,
-    "name": "606RadioScannerPortable.exe"
-   }
-  },
   "956-newswire": {
    "version": "2.6.0",
    "released": "2026-10-13",
