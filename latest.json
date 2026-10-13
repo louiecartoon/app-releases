@@ -1,73 +1,73 @@
 {
  "schema": 1,
- "seq": 7,
- "updated": "2026-10-13T08:27:09Z",
+ "seq": 11,
+ "updated": "2026-10-13T08:47:10Z",
  "apps": {
   "606-radio-scanner": {
-   "version": "1.1.1",
+   "version": "1.1.2",
    "released": "2026-10-13",
-   "notes": "Private build: locks unless the owner's product key is entered. Includes Check for updates and key cancellation support.",
+   "notes": "Fixes the window sometimes staying invisible when restored from the taskbar.",
    "setup": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/606-radio-scanner-v1.1.1/606RadioScannerSetup.exe",
-    "sha256": "085650b64911191148aebcb39f1f29574d00a85f5fb62bd9a3d909e7c8cbde44",
-    "size": 18018304,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/606-radio-scanner-v1.1.2/606RadioScannerSetup.exe",
+    "sha256": "941be0514422cd7a0c865cd5c9aec77d639be562855c9dd5cbc47335c5948a4e",
+    "size": 18021376,
     "name": "606RadioScannerSetup.exe"
    },
    "portable": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/606-radio-scanner-v1.1.1/606RadioScannerPortable.exe",
-    "sha256": "25906483e0aa48149dc39d4cc1cb6d1485ff051ad28e7ec6f22b7cd14ce4e6e2",
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/606-radio-scanner-v1.1.2/606RadioScannerPortable.exe",
+    "sha256": "e71a859fa0c7c4f70d40d455269bf92c90ce5dab7e8c4401911c86a7bd4092b5",
     "size": 13773312,
     "name": "606RadioScannerPortable.exe"
    }
   },
   "956-newswire": {
-   "version": "2.6.0",
+   "version": "2.6.1",
    "released": "2026-10-13",
-   "notes": "Adds Check for updates and key cancellation support.",
+   "notes": "Fixes the window sometimes staying invisible when restored from the taskbar.",
    "setup": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/956-newswire-v2.6.0/NewsWire956Setup.exe",
-    "sha256": "3dcb8eedef0ff1e0e0292ce8e1890ae09d7f5908f324552df521c8987dcd4a74",
-    "size": 25037824,
-    "name": "NewsWire956Setup.exe"
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/956-newswire-v2.6.1/956NewsWireSetup.exe",
+    "sha256": "e00bd25b5a4436950ed082b875ca71d2326c846a65f383c3fbc85af199aa955d",
+    "size": 25039360,
+    "name": "956NewsWireSetup.exe"
    },
    "portable": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/956-newswire-v2.6.0/NewsWire956Portable.exe",
-    "sha256": "bd6a0da1896b3efb02765d451a38f0703ca3c82873e58984aebc36bf959e16a1",
-    "size": 14442463,
-    "name": "NewsWire956Portable.exe"
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/956-newswire-v2.6.1/956NewsWirePortable.exe",
+    "sha256": "fbd9e8bf52b6a26be822ff7fc81c62a5e5ac2c28c7c11e49d4c26ddcc526234f",
+    "size": 14443560,
+    "name": "956NewsWirePortable.exe"
    }
   },
   "956-radio-scanner": {
-   "version": "1.4.0",
+   "version": "1.4.1",
    "released": "2026-10-13",
-   "notes": "Adds Check for updates and key cancellation support.",
+   "notes": "Fixes the window sometimes staying invisible when restored from the taskbar.",
    "setup": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/956-radio-scanner-v1.4.0/956RadioScannerSetup.exe",
-    "sha256": "93c904053a58f0fb38cfde67e08f7e4d8251bf95d735738b853e24e47cd2b6b2",
-    "size": 18002432,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/956-radio-scanner-v1.4.1/956RadioScannerSetup.exe",
+    "sha256": "889f41cbcebb988e1c8771d5a64c8e138c2bed2dde7c611740447efca4598559",
+    "size": 18007552,
     "name": "956RadioScannerSetup.exe"
    },
    "portable": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/956-radio-scanner-v1.4.0/956RadioScannerPortable.exe",
-    "sha256": "2871ff0278c8be39c1d5fa950b3876acb3c8f9f9df810ba98acfd17374750a69",
-    "size": 13757952,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/956-radio-scanner-v1.4.1/956RadioScannerPortable.exe",
+    "sha256": "0a634c24824b059f9fd43411a63a018330cf0ed3a24d596fda38ed84e4cd8001",
+    "size": 13762560,
     "name": "956RadioScannerPortable.exe"
    }
   },
   "autolocalllm": {
-   "version": "1.2.0",
+   "version": "1.2.1",
    "released": "2026-10-13",
-   "notes": "Adds Check for updates and key cancellation support.",
+   "notes": "Fixes the window sometimes staying invisible when restored from the taskbar.",
    "setup": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.2.0/AutoLocalLLM-Setup.exe",
-    "sha256": "3661075ca3bb53c55ecbca27ba2df69ffd73c1affb409bcc6e500aeb80b17d81",
-    "size": 21969920,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.2.1/AutoLocalLLM-Setup.exe",
+    "sha256": "afde8d52bfd763846206bcdee92280234c8cdb419829e7a33951374c342219d9",
+    "size": 21976576,
     "name": "AutoLocalLLM-Setup.exe"
    },
    "portable": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.2.0/AutoLocalLLM.exe",
-    "sha256": "483ff3f081af880d2b28e7be1e51bbd1878450f487a9184c3b78d9cf1c280b2c",
-    "size": 12250624,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.2.1/AutoLocalLLM.exe",
+    "sha256": "5a862701b0d21e7dfc4650d399e5e3f8367a97e415a01360ddc044517b609064",
+    "size": 12254720,
     "name": "AutoLocalLLM.exe"
    }
   }
