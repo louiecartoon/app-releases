@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "seq": 15,
- "updated": "2026-10-13T21:04:06Z",
+ "seq": 16,
+ "updated": "2026-10-17T00:22:49Z",
  "apps": {
   "606-radio-scanner": {
    "version": "1.1.4",
@@ -55,20 +55,20 @@
    }
   },
   "autolocalllm": {
-   "version": "1.2.2",
-   "released": "2026-10-13",
-   "notes": "Fixes the window staying invisible after maximize, minimize and a taskbar click, and a start-up crash.",
+   "version": "1.2.3",
+   "released": "2026-10-17",
+   "notes": "Search is now free for everyone - no product key needed.",
    "setup": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.2.2/AutoLocalLLM-Setup.exe",
-    "sha256": "caaeab784555b8021867a1aa4fc3dc3eddaf61f1da3dea9cabbcd68b43863391",
-    "size": 21978112,
-    "name": "AutoLocalLLM-Setup.exe"
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.2.3/AutoLocalLLMSetup.exe",
+    "sha256": "4f2bcb441b38ab8f4933ede0ea05f3c08ce6f7284385fad80be7c1065c46b990",
+    "size": 8626241,
+    "name": "AutoLocalLLMSetup.exe"
    },
    "portable": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.2.2/AutoLocalLLM.exe",
-    "sha256": "9d1e78cb5bcb2ef8e23d60980b72a697f9e23c7fdd1f325b2f28cbf53bb14e87",
-    "size": 12255744,
-    "name": "AutoLocalLLM.exe"
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.2.3/AutoLocalLLMPortable.exe",
+    "sha256": "37c225359fa83137928089dd1fab6baf174dfd97587c1e598004de86db118e4e",
+    "size": 13500416,
+    "name": "AutoLocalLLMPortable.exe"
    }
   }
  }
