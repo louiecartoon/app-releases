@@ -1,22 +1,22 @@
 {
  "schema": 1,
- "seq": 17,
- "updated": "2026-10-17T01:51:23Z",
+ "seq": 19,
+ "updated": "2026-10-17T03:25:36Z",
  "apps": {
   "606-radio-scanner": {
-   "version": "1.1.4",
-   "released": "2026-10-13",
-   "notes": "Fixes the window staying invisible after maximize, minimize and a taskbar click, and a start-up crash.",
+   "version": "1.1.6",
+   "released": "2026-10-17",
+   "notes": "New: Police Mode - a header button switches the next scan to real, live public-safety stations for your region (filtered by genuine name/tag, not fabricated).",
    "setup": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/606-radio-scanner-v1.1.4/606RadioScannerSetup.exe",
-    "sha256": "38822e08f686b24659e3d453acd3040a3d2b90cf668a312a04d597a1934bb9d4",
-    "size": 18021376,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/606-radio-scanner-v1.1.6/606RadioScannerSetup.exe",
+    "sha256": "aba2bee27782fb1617150ce6f760a4ba61fc3cf92a0e5920e7c33eae7beea044",
+    "size": 19877888,
     "name": "606RadioScannerSetup.exe"
    },
    "portable": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/606-radio-scanner-v1.1.4/606RadioScannerPortable.exe",
-    "sha256": "818cfc2efb4ff2beb8b9ed8a34938c2e23fa2cb9d8e42383ba812785f13305cb",
-    "size": 13773824,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/606-radio-scanner-v1.1.6/606RadioScannerPortable.exe",
+    "sha256": "f0ddbfd0d3e8b4da8c6a2eef566633c914c0ea3e9d516317d39074605e28eeed",
+    "size": 14964736,
     "name": "606RadioScannerPortable.exe"
    }
   },
@@ -38,19 +38,19 @@
    }
   },
   "956-radio-scanner": {
-   "version": "1.4.3",
-   "released": "2026-10-13",
-   "notes": "Fixes the window staying invisible after maximize, minimize and a taskbar click, and a start-up crash.",
+   "version": "1.4.4",
+   "released": "2026-10-17",
+   "notes": "New: Police Mode - a header button switches the next scan to real, live public-safety stations for your region (filtered by genuine name/tag, not fabricated).",
    "setup": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/956-radio-scanner-v1.4.3/956RadioScannerSetup.exe",
-    "sha256": "3a22fdc05923009bc385528941dc1dd15ea3b8859aa839f04245b23685e51bb9",
-    "size": 18006528,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/956-radio-scanner-v1.4.4/956RadioScannerSetup.exe",
+    "sha256": "6ffe58d0a436e9ab0340047e8d8f3be4362230a889337315d4397c50fdc798ee",
+    "size": 19862528,
     "name": "956RadioScannerSetup.exe"
    },
    "portable": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/956-radio-scanner-v1.4.3/956RadioScannerPortable.exe",
-    "sha256": "21bff71ffcb21c9556a32ef06cad4c96e9abacbf0df780d13daa4f905e658c39",
-    "size": 13762048,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/956-radio-scanner-v1.4.4/956RadioScannerPortable.exe",
+    "sha256": "1d0cd01a10f24654ab912d404e7c67daf8fe76abbe9e004562480da2574b0e3d",
+    "size": 14951424,
     "name": "956RadioScannerPortable.exe"
    }
   },
