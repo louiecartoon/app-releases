@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "seq": 21,
- "updated": "2026-10-17T03:53:09Z",
+ "seq": 22,
+ "updated": "2026-10-17T19:22:34Z",
  "apps": {
   "606-radio-scanner": {
    "version": "1.1.8",
@@ -55,19 +55,19 @@
    }
   },
   "autolocalllm": {
-   "version": "1.2.4",
+   "version": "1.2.5",
    "released": "2026-10-17",
-   "notes": "Hotfix: fixed attach button going stale after Voice. New: attach files from the Voice tab too.",
+   "notes": "New: Update Engine button in Settings - Advanced, checks for and installs a newer llama.cpp build, keeping the old one as a fallback.",
    "setup": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.2.4/AutoLocalLLMSetup.exe",
-    "sha256": "1fa5bb0730e42a389d8cd7a9c5b961ce2db1fcd394ea7c6360272cff32300b4e",
-    "size": 8627040,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.2.5/AutoLocalLLMSetup.exe",
+    "sha256": "caeff587b2af991e086ac49198b02721895c09e3d391d3633c9346a0ae382d6f",
+    "size": 8636795,
     "name": "AutoLocalLLMSetup.exe"
    },
    "portable": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.2.4/AutoLocalLLMPortable.exe",
-    "sha256": "931fe46986151cfb6b7c401ed90d5de4de39a3f5d3c6a20e05000312713e51bd",
-    "size": 13502464,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.2.5/AutoLocalLLMPortable.exe",
+    "sha256": "12cf00a626c94af3c580cfe790299265e45d5e8b94752113e675b921b04ec535",
+    "size": 13519360,
     "name": "AutoLocalLLMPortable.exe"
    }
   }
