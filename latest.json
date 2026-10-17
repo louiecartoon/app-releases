@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "seq": 16,
- "updated": "2026-10-17T00:22:49Z",
+ "seq": 17,
+ "updated": "2026-10-17T01:51:23Z",
  "apps": {
   "606-radio-scanner": {
    "version": "1.1.4",
@@ -55,19 +55,19 @@
    }
   },
   "autolocalllm": {
-   "version": "1.2.3",
+   "version": "1.2.4",
    "released": "2026-10-17",
-   "notes": "Search is now free for everyone - no product key needed.",
+   "notes": "Hotfix: fixed attach button going stale after Voice. New: attach files from the Voice tab too.",
    "setup": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.2.3/AutoLocalLLMSetup.exe",
-    "sha256": "4f2bcb441b38ab8f4933ede0ea05f3c08ce6f7284385fad80be7c1065c46b990",
-    "size": 8626241,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.2.4/AutoLocalLLMSetup.exe",
+    "sha256": "1fa5bb0730e42a389d8cd7a9c5b961ce2db1fcd394ea7c6360272cff32300b4e",
+    "size": 8627040,
     "name": "AutoLocalLLMSetup.exe"
    },
    "portable": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.2.3/AutoLocalLLMPortable.exe",
-    "sha256": "37c225359fa83137928089dd1fab6baf174dfd97587c1e598004de86db118e4e",
-    "size": 13500416,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.2.4/AutoLocalLLMPortable.exe",
+    "sha256": "931fe46986151cfb6b7c401ed90d5de4de39a3f5d3c6a20e05000312713e51bd",
+    "size": 13502464,
     "name": "AutoLocalLLMPortable.exe"
    }
   }
