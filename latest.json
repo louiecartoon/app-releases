@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "seq": 22,
- "updated": "2026-10-17T19:22:34Z",
+ "seq": 23,
+ "updated": "2026-10-20T06:19:35Z",
  "apps": {
   "606-radio-scanner": {
    "version": "1.1.8",
@@ -21,19 +21,19 @@
    }
   },
   "956-newswire": {
-   "version": "2.6.2",
-   "released": "2026-10-13",
-   "notes": "Fixes the window staying invisible after maximize, minimize and a taskbar click, and a start-up crash.",
+   "version": "2.6.3",
+   "released": "2026-10-20",
+   "notes": "New: Apply 956 Mode button in Settings - Interface Text (pro) - fills every label with the built-in border-slang pack. Restore Defaults undoes it, and it reverts automatically if your key lapses.",
    "setup": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/956-newswire-v2.6.2/956NewsWireSetup.exe",
-    "sha256": "99978acca0294a1d5f0cde070870b15f24879655d6160da50e29ffb99f086353",
-    "size": 25039360,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/956-newswire-v2.6.3/956NewsWireSetup.exe",
+    "sha256": "7ffac96b96cd5ac34ed74dc5c9f4801f0867a7be35d0312ee25e25d1563367fa",
+    "size": 26197504,
     "name": "956NewsWireSetup.exe"
    },
    "portable": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/956-newswire-v2.6.2/956NewsWirePortable.exe",
-    "sha256": "c0f16657b53367b912dcd759348f447a079ec385976ae48c3073222a41b5e8b7",
-    "size": 14443699,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/956-newswire-v2.6.3/956NewsWirePortable.exe",
+    "sha256": "8a4afce52c2f66ea9781923c967e2a59242271007e38264009f8571343c179ea",
+    "size": 14445330,
     "name": "956NewsWirePortable.exe"
    }
   },
