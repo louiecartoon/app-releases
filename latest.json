@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "seq": 23,
- "updated": "2026-10-20T06:19:35Z",
+ "seq": 24,
+ "updated": "2026-10-23T15:56:59Z",
  "apps": {
   "606-radio-scanner": {
    "version": "1.1.8",
@@ -55,19 +55,19 @@
    }
   },
   "autolocalllm": {
-   "version": "1.2.5",
-   "released": "2026-10-17",
-   "notes": "New: Update Engine button in Settings - Advanced, checks for and installs a newer llama.cpp build, keeping the old one as a fallback.",
+   "version": "1.2.6",
+   "released": "2026-10-23",
+   "notes": "Compatibility notes on model cards, automatic fix for non-standard models (with Undo), safer Update Engine, Search scrolling fixed.",
    "setup": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.2.5/AutoLocalLLMSetup.exe",
-    "sha256": "caeff587b2af991e086ac49198b02721895c09e3d391d3633c9346a0ae382d6f",
-    "size": 8636795,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.2.6/AutoLocalLLMSetup.exe",
+    "sha256": "6b17432ae0d6a13efe4858c8b37dbc95f049499a80868d00a31005c763dfa73b",
+    "size": 8734559,
     "name": "AutoLocalLLMSetup.exe"
    },
    "portable": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.2.5/AutoLocalLLMPortable.exe",
-    "sha256": "12cf00a626c94af3c580cfe790299265e45d5e8b94752113e675b921b04ec535",
-    "size": 13519360,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.2.6/AutoLocalLLMPortable.exe",
+    "sha256": "ab8c2aaae0e7e37cc6efffb816ff532bbdb360a31369b57c8d14019488fa62c3",
+    "size": 13684224,
     "name": "AutoLocalLLMPortable.exe"
    }
   }
