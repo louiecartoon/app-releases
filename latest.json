@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "seq": 24,
- "updated": "2026-10-23T15:56:59Z",
+ "seq": 25,
+ "updated": "2026-10-24T06:02:32Z",
  "apps": {
   "606-radio-scanner": {
    "version": "1.1.8",
@@ -55,19 +55,19 @@
    }
   },
   "autolocalllm": {
-   "version": "1.2.6",
-   "released": "2026-10-23",
-   "notes": "Compatibility notes on model cards, automatic fix for non-standard models (with Undo), safer Update Engine, Search scrolling fixed.",
+   "version": "1.2.7",
+   "released": "2026-10-24",
+   "notes": "Voice is now free for everyone. New with a product key: web search (globe button next to the chat box; the model searches and reads pages, then answers with sources) and agent email (your agent can email you results from its own throwaway account). Fixes: the Search results slider unlocked, and no more llama.cpp lookup message every time you open Settings.",
    "setup": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.2.6/AutoLocalLLMSetup.exe",
-    "sha256": "6b17432ae0d6a13efe4858c8b37dbc95f049499a80868d00a31005c763dfa73b",
-    "size": 8734559,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.2.7/AutoLocalLLMSetup.exe",
+    "sha256": "705bc428e7065fded472cf2008a1fa8fed1b66b6e14a1dc8b203440ffdf62b8c",
+    "size": 8885245,
     "name": "AutoLocalLLMSetup.exe"
    },
    "portable": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.2.6/AutoLocalLLMPortable.exe",
-    "sha256": "ab8c2aaae0e7e37cc6efffb816ff532bbdb360a31369b57c8d14019488fa62c3",
-    "size": 13684224,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.2.7/AutoLocalLLMPortable.exe",
+    "sha256": "1985ef9a4ef071771e41eed26f73b31d734a60489d017f563dca26f2ffbb9ca6",
+    "size": 14014976,
     "name": "AutoLocalLLMPortable.exe"
    }
   }
