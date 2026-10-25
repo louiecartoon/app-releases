@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "seq": 37,
- "updated": "2026-10-25T04:12:27Z",
+ "seq": 38,
+ "updated": "2026-10-25T05:24:54Z",
  "apps": {
   "606-radio-scanner": {
    "version": "1.1.8",
@@ -21,19 +21,19 @@
    }
   },
   "956-newswire": {
-   "version": "2.6.3",
-   "released": "2026-10-20",
-   "notes": "New: Apply 956 Mode button in Settings - Interface Text (pro) - fills every label with the built-in border-slang pack. Restore Defaults undoes it, and it reverts automatically if your key lapses.",
+   "version": "2.6.4",
+   "released": "2026-10-25",
+   "notes": "NewsWire is now 956 News Wire: new name on the app, installer and shortcuts (the old shortcuts are replaced), a new install folder, and a sleeker setup window. Your settings, feeds and product key are kept.",
    "setup": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/956-newswire-v2.6.3/956NewsWireSetup.exe",
-    "sha256": "7ffac96b96cd5ac34ed74dc5c9f4801f0867a7be35d0312ee25e25d1563367fa",
-    "size": 26197504,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/956-news-wire-v2.6.4/956NewsWireSetup.exe",
+    "sha256": "602a4695699b112dad02ac99452e9efe5804d028cd5b3342b9487b572d8c8fa6",
+    "size": 26205696,
     "name": "956NewsWireSetup.exe"
    },
    "portable": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/956-newswire-v2.6.3/956NewsWirePortable.exe",
-    "sha256": "8a4afce52c2f66ea9781923c967e2a59242271007e38264009f8571343c179ea",
-    "size": 14445330,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/956-news-wire-v2.6.4/956NewsWirePortable.exe",
+    "sha256": "566f809f2b155e75324012b844a9179d639f26ec23a18983542d5258a5d80d8b",
+    "size": 14445353,
     "name": "956NewsWirePortable.exe"
    }
   },
