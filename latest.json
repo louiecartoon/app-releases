@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "seq": 35,
- "updated": "2026-10-24T23:37:18Z",
+ "seq": 36,
+ "updated": "2026-10-25T01:11:45Z",
  "apps": {
   "606-radio-scanner": {
    "version": "1.1.8",
@@ -55,19 +55,19 @@
    }
   },
   "autolocalllm": {
-   "version": "1.2.7",
-   "released": "2026-10-24",
-   "notes": "Voice is now free for everyone. New with a product key: web search (globe button next to the chat box; the model searches and reads pages, then answers with sources) and agent email (your agent can email you results from its own throwaway account). Fixes: the Search results slider unlocked, and no more llama.cpp lookup message every time you open Settings.",
+   "version": "1.2.8",
+   "released": "2026-10-25",
+   "notes": "Buy a key right inside the app: it activates automatically seconds after you pay (and is emailed as a backup). New Refresh button for your key, premium themes with an unlock welcome, the title follows your theme colour, and fixes for an out-of-date key status and theme flicker.",
    "setup": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.2.7/AutoLocalLLMSetup.exe",
-    "sha256": "705bc428e7065fded472cf2008a1fa8fed1b66b6e14a1dc8b203440ffdf62b8c",
-    "size": 8885245,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.2.8/AutoLocalLLMSetup.exe",
+    "sha256": "ecc5201293c3d06af65ba592bf41580369f8ff8131f0cb3f5d856b8e177682d3",
+    "size": 8894353,
     "name": "AutoLocalLLMSetup.exe"
    },
    "portable": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.2.7/AutoLocalLLMPortable.exe",
-    "sha256": "1985ef9a4ef071771e41eed26f73b31d734a60489d017f563dca26f2ffbb9ca6",
-    "size": 14014976,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.2.8/AutoLocalLLMPortable.exe",
+    "sha256": "c1a7c4406a128ce208c6d8bb04bf6a1ad50ba3a65b25682ca3903e96eda8441b",
+    "size": 14044672,
     "name": "AutoLocalLLMPortable.exe"
    }
   }
