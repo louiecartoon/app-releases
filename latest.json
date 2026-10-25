@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "seq": 45,
- "updated": "2026-10-25T20:11:29Z",
+ "seq": 46,
+ "updated": "2026-10-25T20:11:35Z",
  "apps": {
   "606-radio-scanner": {
    "version": "1.1.8",
