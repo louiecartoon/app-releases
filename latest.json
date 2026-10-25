@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "seq": 36,
- "updated": "2026-10-25T01:11:45Z",
+ "seq": 37,
+ "updated": "2026-10-25T04:12:27Z",
  "apps": {
   "606-radio-scanner": {
    "version": "1.1.8",
@@ -55,19 +55,19 @@
    }
   },
   "autolocalllm": {
-   "version": "1.2.8",
+   "version": "1.2.9",
    "released": "2026-10-25",
-   "notes": "Buy a key right inside the app: it activates automatically seconds after you pay (and is emailed as a backup). New Refresh button for your key, premium themes with an unlock welcome, the title follows your theme colour, and fixes for an out-of-date key status and theme flicker.",
+   "notes": "Adds a daily key check-in while a product key is saved: the key, a random ID for this install, the app version and when the key was first activated here. Nothing else is sent (no IP stored), and the app keeps working if it can't reach the server. Details under Settings, Product key.",
    "setup": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.2.8/AutoLocalLLMSetup.exe",
-    "sha256": "ecc5201293c3d06af65ba592bf41580369f8ff8131f0cb3f5d856b8e177682d3",
-    "size": 8894353,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.2.9/AutoLocalLLMSetup.exe",
+    "sha256": "610e54b0cabca463bffe6780f329b5b5f2c088c64cb35d9dec5956b3b890c9fb",
+    "size": 8898761,
     "name": "AutoLocalLLMSetup.exe"
    },
    "portable": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.2.8/AutoLocalLLMPortable.exe",
-    "sha256": "c1a7c4406a128ce208c6d8bb04bf6a1ad50ba3a65b25682ca3903e96eda8441b",
-    "size": 14044672,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.2.9/AutoLocalLLMPortable.exe",
+    "sha256": "d4469a64a7eb79a964bc958801a5688605c0332ef763ef575c490f378bf71b9f",
+    "size": 14054912,
     "name": "AutoLocalLLMPortable.exe"
    }
   }
