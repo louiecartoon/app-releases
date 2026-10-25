@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "seq": 38,
- "updated": "2026-10-25T05:24:54Z",
+ "seq": 39,
+ "updated": "2026-10-25T07:41:28Z",
  "apps": {
   "606-radio-scanner": {
    "version": "1.1.8",
@@ -55,19 +55,19 @@
    }
   },
   "autolocalllm": {
-   "version": "1.2.9",
+   "version": "1.3.0",
    "released": "2026-10-25",
-   "notes": "Adds a daily key check-in while a product key is saved: the key, a random ID for this install, the app version and when the key was first activated here. Nothing else is sent (no IP stored), and the app keeps working if it can't reach the server. Details under Settings, Product key.",
+   "notes": "Big free update: chat history, a Notes tab with folders your model can use, a new logo and installer, Pro Tips, a calmer Scan, clickable links and cleaner replies, and smarter default instructions. Web search can now run several searches at once.",
    "setup": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.2.9/AutoLocalLLMSetup.exe",
-    "sha256": "610e54b0cabca463bffe6780f329b5b5f2c088c64cb35d9dec5956b3b890c9fb",
-    "size": 8898761,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.3.0/AutoLocalLLMSetup.exe",
+    "sha256": "a5591e03afeaac7bff85ffae9ea48497335314512c43addf966a69f9224712d5",
+    "size": 10157623,
     "name": "AutoLocalLLMSetup.exe"
    },
    "portable": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.2.9/AutoLocalLLMPortable.exe",
-    "sha256": "d4469a64a7eb79a964bc958801a5688605c0332ef763ef575c490f378bf71b9f",
-    "size": 14054912,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.3.0/AutoLocalLLMPortable.exe",
+    "sha256": "2c557d4ad09f534194959cd5190bcdee2b8eacf74a730b65eded65f4d5c0f7ec",
+    "size": 14266368,
     "name": "AutoLocalLLMPortable.exe"
    }
   }
