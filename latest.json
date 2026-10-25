@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "seq": 48,
- "updated": "2026-10-25T20:12:02Z",
+ "seq": 49,
+ "updated": "2026-10-25T20:44:12Z",
  "apps": {
   "606-radio-scanner": {
    "version": "1.1.8",
@@ -55,19 +55,19 @@
    }
   },
   "autolocalllm": {
-   "version": "1.3.1",
+   "version": "1.4.0",
    "released": "2026-10-25",
-   "notes": "Fixes the installer being stopped by Microsoft Defender (a false alarm). Includes everything from 1.3.0: chat history, the Notes tab, the new logo and installer, Pro Tips, a calmer Scan, clickable links, cleaner replies and smarter default instructions.",
+   "notes": "Web search is now free for everyone. Notes: drag notes into folders, search inside notes and link notes with [[Note name]]. Add-ons (control vectors) can be used with their base model. New for key holders: scheduled jobs that your model runs by itself and can email you.",
    "setup": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.3.1/AutoLocalLLMSetup.exe",
-    "sha256": "e3b66d2fbf716cc504f32bcc07ea664facd7b8dbe1ca6350e62f51e0532125da",
-    "size": 9933524,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.4.0/AutoLocalLLMSetup.exe",
+    "sha256": "5631bb46dc0c00f628357e4f7005633fe50ad8a1c5039422a196be5b36e7e866",
+    "size": 9975755,
     "name": "AutoLocalLLMSetup.exe"
    },
    "portable": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.3.1/AutoLocalLLMPortable.exe",
-    "sha256": "56c3ec1e788c9b317fb3564e94e9bcc5734ebecb6550caab49de7c1193da9615",
-    "size": 14266368,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.4.0/AutoLocalLLMPortable.exe",
+    "sha256": "2849f92760e4c9f4ff3d3ad5eb0ba1b504e6139dcba7574b97df20c9f6b8896d",
+    "size": 14382592,
     "name": "AutoLocalLLMPortable.exe"
    }
   }
