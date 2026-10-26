@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "seq": 49,
- "updated": "2026-10-25T20:44:12Z",
+ "seq": 50,
+ "updated": "2026-10-26T02:09:07Z",
  "apps": {
   "606-radio-scanner": {
    "version": "1.1.8",
@@ -55,19 +55,19 @@
    }
   },
   "autolocalllm": {
-   "version": "1.4.0",
-   "released": "2026-10-25",
-   "notes": "Web search is now free for everyone. Notes: drag notes into folders, search inside notes and link notes with [[Note name]]. Add-ons (control vectors) can be used with their base model. New for key holders: scheduled jobs that your model runs by itself and can email you.",
+   "version": "1.4.1",
+   "released": "2026-10-26",
+   "notes": "New natural AI voices: Heart is free for everyone, and all 23 Kokoro HD voices (Emma by default) come with a product key. Plus update reminders and small fixes.",
    "setup": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.4.0/AutoLocalLLMSetup.exe",
-    "sha256": "5631bb46dc0c00f628357e4f7005633fe50ad8a1c5039422a196be5b36e7e866",
-    "size": 9975755,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.4.1/AutoLocalLLMSetup.exe",
+    "sha256": "a68b4ce36ebc7204202078cf8551e48adab0608956066e14681e24f4157155ab",
+    "size": 10102031,
     "name": "AutoLocalLLMSetup.exe"
    },
    "portable": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.4.0/AutoLocalLLMPortable.exe",
-    "sha256": "2849f92760e4c9f4ff3d3ad5eb0ba1b504e6139dcba7574b97df20c9f6b8896d",
-    "size": 14382592,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.4.1/AutoLocalLLMPortable.exe",
+    "sha256": "9521f885766d545f5138e61fcab4675fb438db77fb7585139b98c0a87f53fc5c",
+    "size": 14669312,
     "name": "AutoLocalLLMPortable.exe"
    }
   }
