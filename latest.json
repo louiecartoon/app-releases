@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "seq": 53,
- "updated": "2026-10-26T06:52:26Z",
+ "seq": 54,
+ "updated": "2026-10-26T20:17:43Z",
  "apps": {
   "606-radio-scanner": {
    "version": "1.1.8",
@@ -55,19 +55,19 @@
    }
   },
   "autolocalllm": {
-   "version": "1.5.0",
+   "version": "1.5.1",
    "released": "2026-10-26",
-   "notes": "New: Computer Use (product key): your model works hands-on with Word, PowerPoint, Excel, PDF and text files in one folder you pick. Plus a built-in manual, smarter in-app help, and Max context by default.",
+   "notes": "Computer Use handles big jobs much better: it maps big files, adds new parts in the right place, keeps its memory from filling up, and keeps going instead of stopping. Plus screenshot and web search fixes.",
    "setup": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.5.0/AutoLocalLLMSetup.exe",
-    "sha256": "b3d279e0215633344c8777442047cd476bdded2a5fab4a0c9ff688f077438cd0",
-    "size": 10505564,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.5.1/AutoLocalLLMSetup.exe",
+    "sha256": "0914d771b9a3e777ef017c46f60f308c047d0a29207aa3e79d6878e1cc2320e0",
+    "size": 10539942,
     "name": "AutoLocalLLMSetup.exe"
    },
    "portable": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.5.0/AutoLocalLLMPortable.exe",
-    "sha256": "2d54341b73cac978edae29fc1015af0e84d49b629aeb0aa55d58a4e0d071959b",
-    "size": 15578112,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.5.1/AutoLocalLLMPortable.exe",
+    "sha256": "982548652a2c0e7721eefd2670782499ed92071332cf6f2ae6f6a5819be5995b",
+    "size": 15648768,
     "name": "AutoLocalLLMPortable.exe"
    }
   }
