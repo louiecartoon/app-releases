@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "seq": 51,
- "updated": "2026-10-26T02:52:48Z",
+ "seq": 52,
+ "updated": "2026-10-26T04:16:22Z",
  "apps": {
   "606-radio-scanner": {
    "version": "1.1.8",
@@ -55,19 +55,19 @@
    }
   },
   "autolocalllm": {
-   "version": "1.4.2",
+   "version": "1.4.3",
    "released": "2026-10-26",
-   "notes": "Less setup: web search, notes for your model and (with a key) jobs from Chat are now on by default. Anything you already turned off stays off.",
+   "notes": "Fix: the microphone popup no longer appears every launch, and your chosen microphone is remembered.",
    "setup": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.4.2/AutoLocalLLMSetup.exe",
-    "sha256": "f0afac41667b50aeda8cdb8b934096d82c7d4a1db3f1432f06210b0d5bf65a10",
-    "size": 10104557,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.4.3/AutoLocalLLMSetup.exe",
+    "sha256": "3177e16ee530fde222831278ae930d734c5ca3ecc506394d11338f57ae251193",
+    "size": 10106732,
     "name": "AutoLocalLLMSetup.exe"
    },
    "portable": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.4.2/AutoLocalLLMPortable.exe",
-    "sha256": "0481cdab4fe3c5bdbd1ab225261ff353a027e72c9b76c5a3122104bbea392d12",
-    "size": 14673920,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.4.3/AutoLocalLLMPortable.exe",
+    "sha256": "b85c7e364454849c104910b96f16b5515712b661ed33d02497cd9492d6c0b05b",
+    "size": 14675456,
     "name": "AutoLocalLLMPortable.exe"
    }
   }
