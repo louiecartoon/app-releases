@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "seq": 52,
- "updated": "2026-10-26T04:16:22Z",
+ "seq": 53,
+ "updated": "2026-10-26T06:52:26Z",
  "apps": {
   "606-radio-scanner": {
    "version": "1.1.8",
@@ -55,19 +55,19 @@
    }
   },
   "autolocalllm": {
-   "version": "1.4.3",
+   "version": "1.5.0",
    "released": "2026-10-26",
-   "notes": "Fix: the microphone popup no longer appears every launch, and your chosen microphone is remembered.",
+   "notes": "New: Computer Use (product key): your model works hands-on with Word, PowerPoint, Excel, PDF and text files in one folder you pick. Plus a built-in manual, smarter in-app help, and Max context by default.",
    "setup": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.4.3/AutoLocalLLMSetup.exe",
-    "sha256": "3177e16ee530fde222831278ae930d734c5ca3ecc506394d11338f57ae251193",
-    "size": 10106732,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.5.0/AutoLocalLLMSetup.exe",
+    "sha256": "b3d279e0215633344c8777442047cd476bdded2a5fab4a0c9ff688f077438cd0",
+    "size": 10505564,
     "name": "AutoLocalLLMSetup.exe"
    },
    "portable": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.4.3/AutoLocalLLMPortable.exe",
-    "sha256": "b85c7e364454849c104910b96f16b5515712b661ed33d02497cd9492d6c0b05b",
-    "size": 14675456,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.5.0/AutoLocalLLMPortable.exe",
+    "sha256": "2d54341b73cac978edae29fc1015af0e84d49b629aeb0aa55d58a4e0d071959b",
+    "size": 15578112,
     "name": "AutoLocalLLMPortable.exe"
    }
   }
