@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "seq": 12,
- "updated": "2026-10-26T20:31:42Z",
+ "seq": 13,
+ "updated": "2026-10-26T20:33:56Z",
  "apps": {
   "autolocalllm": {
    "mode": "pause"
