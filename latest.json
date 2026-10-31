@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "seq": 56,
- "updated": "2026-10-31T03:51:21Z",
+ "seq": 57,
+ "updated": "2026-10-31T18:32:19Z",
  "apps": {
   "606-radio-scanner": {
    "version": "1.1.8",
@@ -55,19 +55,19 @@
    }
   },
   "autolocalllm": {
-   "version": "1.5.2",
+   "version": "1.6.0",
    "released": "2026-10-31",
-   "notes": "Fixes the dead buttons from 1.5.1, and Computer Use handles big jobs much better: it maps big files, adds new parts in the right place, and stays on track on long tasks.",
+   "notes": "The agent tools update: your model can now build things, open them in a real browser, click around, see what's broken and fix it. Adds a Skills tab, helpers for big jobs, question cards, running commands and scripts, and a loop breaker so it stops going in circles.",
    "setup": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.5.2/AutoLocalLLMSetup.exe",
-    "sha256": "dda0e7141557fe5a82efba00de4ca23e70c8c67204de10cefdbf287c377b04c9",
-    "size": 10538972,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.6.0/AutoLocalLLMSetup.exe",
+    "sha256": "9b2749e772db48883d043279c3154e095ddd0a2943f09d89a2519df569af3bba",
+    "size": 10727683,
     "name": "AutoLocalLLMSetup.exe"
    },
    "portable": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.5.2/AutoLocalLLMPortable.exe",
-    "sha256": "02ee9a5fe89760cb9a8ac4919a9c06b180570b6f85f5d6f8bebcf9e2cf9388f0",
-    "size": 15649792,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.6.0/AutoLocalLLMPortable.exe",
+    "sha256": "f06f2f1bd04aea5f985e278081054f81b867b3c84afc02767436980ff3e90b99",
+    "size": 16102912,
     "name": "AutoLocalLLMPortable.exe"
    }
   }
