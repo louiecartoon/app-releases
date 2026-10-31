@@ -1,10 +1,22 @@
 {
  "schema": 1,
- "seq": 14,
- "updated": "2026-10-26T20:37:06Z",
+ "seq": 15,
+ "updated": "2026-10-31T04:10:56Z",
  "apps": {
   "autolocalllm": {
    "mode": "normal"
   }
- }
+ },
+ "dev_keys": [
+  "4f753ff75a3725646b454af21bc1a505",
+  "59a2fc644ba4ab67469cfdd6d778a2a3",
+  "5a60b424d3ad687a22d11c4d58ad679b",
+  "79a1f607bc3c363fe78ffaf4f5db0851",
+  "81e40b37ceeb5fe9db4c63c30e93c13a",
+  "821072ac2eccd556ea5a23add9e658a9",
+  "8aa03f9908a14f9ce7f3e7777450819e",
+  "a1299fa414a507b538920726ba85267b",
+  "d1673d6d13dae5b565d47b30f1cd305b",
+  "dbef7418c580d4b13233d6a90baa03b7"
+ ]
 }
