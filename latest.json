@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "seq": 59,
- "updated": "2026-11-01T04:11:08Z",
+ "seq": 60,
+ "updated": "2026-11-01T05:43:30Z",
  "apps": {
   "606-radio-scanner": {
    "version": "1.1.8",
@@ -55,19 +55,19 @@
    }
   },
   "autolocalllm": {
-   "version": "1.7.1",
+   "version": "1.7.2",
    "released": "2026-11-01",
-   "notes": "Fixes the left panel being cut off on small screens: it now scrolls, and the window always fits your screen.",
+   "notes": "Product key check-in fixes: Settings shows the check-in status with a Check in now button, failed check-ins retry every 10 minutes, and removing or replacing a key frees up that PC right away.",
    "setup": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.7.1/AutoLocalLLMSetup.exe",
-    "sha256": "5f53ca82ec5675d923b380e65442e3cb7a85d7e8ffab3fff10e883f9c7560b46",
-    "size": 10910422,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.7.2/AutoLocalLLMSetup.exe",
+    "sha256": "39a5f68f08779a87829b05f10750cf6d7ea6fe05b57bca388c7a2a235136640e",
+    "size": 10913118,
     "name": "AutoLocalLLMSetup.exe"
    },
    "portable": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.7.1/AutoLocalLLMPortable.exe",
-    "sha256": "34e74cabc7e773cac185e527c668cc4bf969af82d06aa6772f3a21f758f48f14",
-    "size": 16499712,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.7.2/AutoLocalLLMPortable.exe",
+    "sha256": "7d9e8f834384a727f25af9f0b8831ae4c85225c0325f390a7c4da708bcd24075",
+    "size": 16508416,
     "name": "AutoLocalLLMPortable.exe"
    }
   }
