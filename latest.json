@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "seq": 58,
- "updated": "2026-11-01T03:43:29Z",
+ "seq": 59,
+ "updated": "2026-11-01T04:11:08Z",
  "apps": {
   "606-radio-scanner": {
    "version": "1.1.8",
@@ -55,19 +55,19 @@
    }
   },
   "autolocalllm": {
-   "version": "1.7.0",
+   "version": "1.7.1",
    "released": "2026-11-01",
-   "notes": "Your model can now test programs with their own window: start what it built, press its buttons and fix what's wrong. Thinking and Jobs (up to 5) are free for everyone. Also fixes Kokoro voices not installing, and many bugs found in our first full bug scan.",
+   "notes": "Fixes the left panel being cut off on small screens: it now scrolls, and the window always fits your screen.",
    "setup": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.7.0/AutoLocalLLMSetup.exe",
-    "sha256": "8f4d16a56bcd8b3a39e34c33316303ac9b19c23b1330055ef690fa1a3a81000e",
-    "size": 10908294,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.7.1/AutoLocalLLMSetup.exe",
+    "sha256": "5f53ca82ec5675d923b380e65442e3cb7a85d7e8ffab3fff10e883f9c7560b46",
+    "size": 10910422,
     "name": "AutoLocalLLMSetup.exe"
    },
    "portable": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.7.0/AutoLocalLLMPortable.exe",
-    "sha256": "a27dd608991bd7a06d7d954ce481a921e4d49f1f06afb29f517acd86ecfeaa59",
-    "size": 16496128,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.7.1/AutoLocalLLMPortable.exe",
+    "sha256": "34e74cabc7e773cac185e527c668cc4bf969af82d06aa6772f3a21f758f48f14",
+    "size": 16499712,
     "name": "AutoLocalLLMPortable.exe"
    }
   }
