@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "seq": 57,
- "updated": "2026-10-31T18:32:19Z",
+ "seq": 58,
+ "updated": "2026-11-01T03:43:29Z",
  "apps": {
   "606-radio-scanner": {
    "version": "1.1.8",
@@ -55,19 +55,19 @@
    }
   },
   "autolocalllm": {
-   "version": "1.6.0",
-   "released": "2026-10-31",
-   "notes": "The agent tools update: your model can now build things, open them in a real browser, click around, see what's broken and fix it. Adds a Skills tab, helpers for big jobs, question cards, running commands and scripts, and a loop breaker so it stops going in circles.",
+   "version": "1.7.0",
+   "released": "2026-11-01",
+   "notes": "Your model can now test programs with their own window: start what it built, press its buttons and fix what's wrong. Thinking and Jobs (up to 5) are free for everyone. Also fixes Kokoro voices not installing, and many bugs found in our first full bug scan.",
    "setup": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.6.0/AutoLocalLLMSetup.exe",
-    "sha256": "9b2749e772db48883d043279c3154e095ddd0a2943f09d89a2519df569af3bba",
-    "size": 10727683,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.7.0/AutoLocalLLMSetup.exe",
+    "sha256": "8f4d16a56bcd8b3a39e34c33316303ac9b19c23b1330055ef690fa1a3a81000e",
+    "size": 10908294,
     "name": "AutoLocalLLMSetup.exe"
    },
    "portable": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.6.0/AutoLocalLLMPortable.exe",
-    "sha256": "f06f2f1bd04aea5f985e278081054f81b867b3c84afc02767436980ff3e90b99",
-    "size": 16102912,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.7.0/AutoLocalLLMPortable.exe",
+    "sha256": "a27dd608991bd7a06d7d954ce481a921e4d49f1f06afb29f517acd86ecfeaa59",
+    "size": 16496128,
     "name": "AutoLocalLLMPortable.exe"
    }
   }
