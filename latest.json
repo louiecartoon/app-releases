@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "seq": 60,
- "updated": "2026-11-01T05:43:30Z",
+ "seq": 61,
+ "updated": "2026-11-01T06:42:36Z",
  "apps": {
   "606-radio-scanner": {
    "version": "1.1.8",
@@ -55,19 +55,19 @@
    }
   },
   "autolocalllm": {
-   "version": "1.7.2",
+   "version": "1.7.3",
    "released": "2026-11-01",
-   "notes": "Product key check-in fixes: Settings shows the check-in status with a Check in now button, failed check-ins retry every 10 minutes, and removing or replacing a key frees up that PC right away.",
+   "notes": "Product key date fix: your key now shows the same end date on every PC.",
    "setup": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.7.2/AutoLocalLLMSetup.exe",
-    "sha256": "39a5f68f08779a87829b05f10750cf6d7ea6fe05b57bca388c7a2a235136640e",
-    "size": 10913118,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.7.3/AutoLocalLLMSetup.exe",
+    "sha256": "25ac572d9603c90842408a7b867295141eb5af862ad9de6d4be0d2f4752d066d",
+    "size": 10914024,
     "name": "AutoLocalLLMSetup.exe"
    },
    "portable": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.7.2/AutoLocalLLMPortable.exe",
-    "sha256": "7d9e8f834384a727f25af9f0b8831ae4c85225c0325f390a7c4da708bcd24075",
-    "size": 16508416,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.7.3/AutoLocalLLMPortable.exe",
+    "sha256": "4e4cb2719658049bd0226c2012a86bb861e54b391810fc712ce32cd171ae179f",
+    "size": 16513536,
     "name": "AutoLocalLLMPortable.exe"
    }
   }
