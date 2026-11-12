@@ -7,7 +7,7 @@ Follow me on TikTok: [@LouieCartoon](https://www.tiktok.com/@louiecartoon)
 
 | App | What it does | Latest | Download |
 |---|---|---|---|
-| **AutoLocalLLM** | Scans your PC, recommends AI language models that will actually run on your hardware, downloads and installs them, and lets you chat with them. Everything runs on your own PC. | 1.8.0 | [Installer](https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.8.0/AutoLocalLLMSetup.exe) · [Portable](https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.8.0/AutoLocalLLMPortable.exe) |
+| **AutoLocalLLM** | Scans your PC, recommends AI language models that will actually run on your hardware, downloads and installs them, and lets you chat with them. Everything runs on your own PC. | 1.8.1 | [Installer](https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.8.1/AutoLocalLLMSetup.exe) · [Portable](https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.8.1/AutoLocalLLMPortable.exe) |
 | **956 Radio Scanner** | A local radio scanner and player. Finds internet radio stations for your region (default: the Rio Grande Valley, 956), shows them on a radar, and plays and/or records them. | 1.4.5 | [Installer](https://github.com/louiecartoon/app-releases/releases/download/956-radio-scanner-v1.4.5/956RadioScannerSetup.exe) · [Portable](https://github.com/louiecartoon/app-releases/releases/download/956-radio-scanner-v1.4.5/956RadioScannerPortable.exe) |
 | **956 News Wire** | A local news scanner. Gathers recent headlines for your keywords (default: the Rio Grande Valley) from news feeds and local news sites onto one screen. | 2.6.4 | [Installer](https://github.com/louiecartoon/app-releases/releases/download/956-news-wire-v2.6.4/956NewsWireSetup.exe) · [Portable](https://github.com/louiecartoon/app-releases/releases/download/956-news-wire-v2.6.4/956NewsWirePortable.exe) |
 | **606 Radio Scanner** | The radio scanner set up for Eastern Kentucky (area code 606), with its own purple theme. | 1.1.8 | [Installer](https://github.com/louiecartoon/app-releases/releases/download/606-radio-scanner-v1.1.8/606RadioScannerSetup.exe) · [Portable](https://github.com/louiecartoon/app-releases/releases/download/606-radio-scanner-v1.1.8/606RadioScannerPortable.exe) |
@@ -31,6 +31,15 @@ Updates are protected: the update list is digitally signed, and every download i
 The apps are free to use. Some extra features unlock with a product key. Keys are checked on your PC and need no account.
 For a key, or a problem with one: **louiecartoon.business@gmail.com**
 
+## AutoLocalLLM: privacy, terms and refunds
+
+- [Privacy policy](autolocalllm-legal/PRIVACY.md)
+- [Terms of use](autolocalllm-legal/TERMS.md) (18 or older)
+- [Refund policy](autolocalllm-legal/REFUNDS.md)
+- [Third-party notices](autolocalllm-legal/THIRD-PARTY-NOTICES.md)
+
+The same documents are in the app, under **Settings → About & legal**.
+
 ## About this repository
 
 This repository only holds the published downloads (under Releases) and the signed update files the apps read:
@@ -39,5 +48,6 @@ This repository only holds the published downloads (under Releases) and the sign
 |---|---|
 | `latest.json` + `.sig` | Newest version of each app, its download links and fingerprints |
 | `revoked.json` + `.sig` | Product keys that have been cancelled |
+| `autolocalllm-legal/` | AutoLocalLLM's privacy policy, terms, refund policy and third-party notices |
 
 Source code is not published here. It is kept privately, each app in its own repository with its full version history.

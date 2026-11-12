@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "seq": 62,
- "updated": "2026-11-06T00:36:36Z",
+ "seq": 63,
+ "updated": "2026-11-12T05:26:09Z",
  "apps": {
   "606-radio-scanner": {
    "version": "1.1.8",
@@ -55,19 +55,19 @@
    }
   },
   "autolocalllm": {
-   "version": "1.8.0",
-   "released": "2026-11-06",
-   "notes": "A smarter, safer agent: Undo this task, context summarizing, tools that load when needed, MCP servers (product key), and better tool use.",
+   "version": "1.8.1",
+   "released": "2026-11-12",
+   "notes": "Privacy policy, Terms of use and Refund policy in Settings → About \u0026 legal, Delete all my data, and easier keyboard use and reading.",
    "setup": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.8.0/AutoLocalLLMSetup.exe",
-    "sha256": "a912e255f79b360679fea9284c12766a4e5c9edc7b7504b1ef8be77412b7880f",
-    "size": 11056584,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.8.1/AutoLocalLLMSetup.exe",
+    "sha256": "92e23ea97cee7615dd5a0e2012782851949d118eacf1ef406f177d3cf4dbd9a6",
+    "size": 11073029,
     "name": "AutoLocalLLMSetup.exe"
    },
    "portable": {
-    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.8.0/AutoLocalLLMPortable.exe",
-    "sha256": "9005367524316d6e3a57567531224c7579ea478e5e399f364303a24b7ce78bb5",
-    "size": 16832512,
+    "url": "https://github.com/louiecartoon/app-releases/releases/download/autolocalllm-v1.8.1/AutoLocalLLMPortable.exe",
+    "sha256": "df97c8aec8baf26d8f4bff5f690a95f6d4e62864a5b97ca6e3af8a05c4cc83f6",
+    "size": 16885760,
     "name": "AutoLocalLLMPortable.exe"
    }
   }
