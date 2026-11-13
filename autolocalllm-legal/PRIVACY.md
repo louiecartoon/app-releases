@@ -12,7 +12,7 @@ AutoLocalLLM is made by Louie Cartoon ("we", "us"). Questions or requests: **lou
 
 ## What stays on your PC
 
-Your chats and chat history, notes, settings, scheduled jobs, the files Computer Use works on, voice input (turned into text on your PC), the model's memory notes, undo records, your product key, and your Gmail app password if you set up agent email (encrypted with Windows' own protection for your account). They're kept in the app's data folder; Settings → About & legal shows where. **Settings → About & legal → Delete all my data** erases it.
+Your chats and chat history, notes, settings, scheduled jobs, the files Computer Use works on, voice input (turned into text on your PC), the model's memory notes, the search list of any folders you share with the model (Settings → Your files), undo records, your product key, and your Gmail app password if you set up agent email (encrypted with Windows' own protection for your account). They're kept in the app's data folder; Settings → About & legal shows where. **Settings → About & legal → Delete all my data** erases it.
 
 ## What the app sends, and to whom
 
@@ -23,7 +23,8 @@ Your chats and chat history, notes, settings, scheduled jobs, the files Computer
 5. **Downloads and model search.** Models and model searches go directly to Hugging Face and the Ollama model registry. The model engines and voices come from GitHub. These services see your IP address, like any website.
 6. **Web search** (on by default; turn it off in Settings → Web search). The words your model searches for are sent to DuckDuckGo, or to Brave Search if you add your own Brave key.
 7. **Agent email** (product key, only if you set it up). Emails go out through your own Gmail account, using the app password you gave it.
-8. **Programs you choose to run.** Commands you approve, and MCP servers you add, run on your PC and can connect wherever they're built to. What they do with data is up to their makers.
+8. **Error reports** (off unless you choose). When something goes wrong, the app shows you the whole report and asks "Send this report?"; nothing is sent unless you press Send, or you turned on Settings → Error reports → Always send error reports. A report has the app version, your Windows version, your graphics card name, the graphics engine, the step that failed (like a download), the kind of error, the time to the hour, and the error message with file paths, user names, email addresses, IP addresses, keys and long codes taken out. Never your chats, notes, files, product key or any ID for this PC. We don't store IP addresses, and reports can't be linked to you or your key. They're kept for 120 days and used only to fix bugs.
+9. **Programs you choose to run.** Commands you approve, and MCP servers you add, run on your PC and can connect wherever they're built to. What they do with data is up to their makers.
 
 The app's window uses Microsoft Edge WebView2, which is part of Windows and covered by Microsoft's privacy statement.
 
